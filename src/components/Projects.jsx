@@ -1,29 +1,40 @@
 import React from "react";
 import employeeMSImage from "../assets/employee-ms.png";
 import bookMSImage from "../assets/admin-dashboard.png";
+import testimage from "../assets/mr-kiksy-cypto-checker.png";
+import webdesign from "../assets/mr-kiksy-website-design.png"
 
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
+    name: "JobListingWebsite",
     technologies: "MERN Stack",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://frontendjoblistingwebstite.onrender.com/",
   },
   {
     id: 2,
-    name: "Blog App",
+    name: "Live Web Design Class",
     technologies: "MERN Stack",
-    image: bookMSImage,
-    github: "https://github.com/YouafKhan1",
+    image: webdesign,
+    github: "https://full-stack-supabase-user-management.onrender.com/#",
   },
+ 
   {
-    id: 3,
-    name: "Book MS",
+    id: 4,
+    name: "Cypto Currency Price Checker",
     technologies: "MERN Stack",
-    image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    image: testimage,
+    github: "https://cyptopricechecker.onrender.com/",
   },
+
+  {
+    id:5,
+    name: " Mr Kiksy Contact Management System ",
+    technologies: "MERN stack",
+    image: bookMSImage,
+    github: "https://frontendcontactmanagementsystem.onrender.com/"
+  }
 ];
 
 const Projects = () => {
@@ -41,7 +52,7 @@ const Projects = () => {
               <p className="text-gray-400 mb-4">{project.technologies}</p>
               <a href={project.github} className="inline-block bg-gradient-to-r 
               from-green-400 to-blue-500 text-white px-4 py-2 rounded-full" target="_blank" 
-              rel="noopener noreferrer">GitHub</a>
+              rel="noopener noreferrer">Click to Navigate Project</a>
             </div>
           ))}
         </div>
