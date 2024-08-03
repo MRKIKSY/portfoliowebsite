@@ -10,7 +10,7 @@ const projects = [
     name: "JobListingWebsite",
     technologies: "MERN Stack",
     image: employeeMSImage,
-    github: "https://frontendjoblistingwebstite.onrender.com/",
+    github: "https://jobmarketfrontend.onrender.com/",
   },
   {
     id: 2,
