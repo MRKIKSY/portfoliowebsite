@@ -58,7 +58,7 @@ const projects = [
   },
    {
     id:8,
-    name: " Vanilla Javascript Online Projects",
+    name: " Online File Storage System",
     technologies: "MERN stack",
     image: bookMSImage,
     github: "https://fire-c392.onrender.com/"
