@@ -34,7 +34,31 @@ const projects = [
     technologies: "MERN stack",
     image: bookMSImage,
     github: "https://frontendcontactmanagementsystem.onrender.com/"
+  },
+  {
+    id:6,
+    name: " E Assignment Learning Platform ",
+    technologies: "MERN stack",
+    image: bookMSImage,
+    github: "https://elearningplatform.onrender.com/"
+  },
+    {
+    id:7,
+    name: "  Online BookStore",
+    technologies: "MERN stack",
+    image: bookMSImage,
+    github: "https://e-assignment-platform.onrender.com/"
+  },
+    {
+    id:8,
+    name: " Vanilla Javascript Online Porjects",
+    technologies: "MERN stack",
+    image: bookMSImage,
+    github: "https://mrkiksyjavascriptprojects.netlify.app/"
   }
+
+
+  
 ];
 
 const Projects = () => {
