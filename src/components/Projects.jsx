@@ -51,7 +51,7 @@ const projects = [
   },
     {
     id:8,
-    name: " Vanilla Javascript Online Porjects",
+    name: " Vanilla Javascript Online Projects",
     technologies: "MERN stack",
     image: bookMSImage,
     github: "https://mrkiksyjavascriptprojects.netlify.app/"
