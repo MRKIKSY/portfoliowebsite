@@ -57,14 +57,14 @@ const projects = [
     github: "https://mrkiksyjavascriptprojects.netlify.app/"
   },
    {
-    id:8,
+    id:9,
     name: " Online File Storage System",
     technologies: "MERN stack",
     image: bookMSImage,
     github: "https://fire-c392.onrender.com/"
   }
     {
-    id:9,
+    id:10,
     name: " Newsletter subscription system",
     technologies: "MERN stack",
     image: bookMSImage,
