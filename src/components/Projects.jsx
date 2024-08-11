@@ -63,6 +63,13 @@ const projects = [
     image: bookMSImage,
     github: "https://fire-c392.onrender.com/"
   }
+    {
+    id:9,
+    name: " Newsletter subscription system",
+    technologies: "MERN stack",
+    image: bookMSImage,
+    github: "https://newsletterfrontend.onrender.com"
+  },
 
 
   
