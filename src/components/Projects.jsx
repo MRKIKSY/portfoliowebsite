@@ -68,6 +68,20 @@ const projects = [
     image: bookMSImage,
     github: "https://newsletterfrontend.onrender.com",
   },
+  {
+    id: 11,
+    name: "Video to Image Converter",
+    technologies: "Frontend",
+    image: bookMSImage, // Replace with a specific image if available
+    github: "https://videotoimageconverter.netlify.app/",
+  },
+  {
+    id: 12,
+    name: "Video Merger App",
+    technologies: "Node.js, Render",
+    image: bookMSImage, // Replace with a specific image if available
+    github: "https://videomerger-web-application-1.onrender.com/",
+  },
 ];
 
 const Projects = () => {
